@@ -1,4 +1,5 @@
-💫 About Me:
+## 💫 About Me:
+
 I am an enthusiastic and detail-oriented Frontend Developer with a strong foundation in HTML, CSS, and JavaScript, and a passion for crafting clean, responsive, and user-friendly web interfaces. My experience includes collaborating with development teams to implement modern, responsive designs and optimize usability. Skilled in tools like Git/GitHub , I bring a commitment to writing well-structured code and delivering seamless user experiences across devices. Currently in my final year of a Bachelor’s in Information Technology, I continuously enhance my skills to stay ahead of evolving web standards and technologies.
 
 🌐 Socials:
